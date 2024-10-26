@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F8BC7E54-4675-4B26-B380-23C3721C69AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler.Api", "Scheduler.Api\Scheduler.Api.csproj", "{4D9D6E38-E653-4835-9AB4-8ACD4D795808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9D6E38-E653-4835-9AB4-8ACD4D795808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9D6E38-E653-4835-9AB4-8ACD4D795808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9D6E38-E653-4835-9AB4-8ACD4D795808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9D6E38-E653-4835-9AB4-8ACD4D795808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D9D6E38-E653-4835-9AB4-8ACD4D795808} = {F8BC7E54-4675-4B26-B380-23C3721C69AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C0B734D-9418-4258-8D18-C9581BC26D37}
+	EndGlobalSection
+EndGlobal
