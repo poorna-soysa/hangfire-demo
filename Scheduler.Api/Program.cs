@@ -29,7 +29,8 @@ if (app.Environment.IsDevelopment())
 app.UseHangfireDashboard(options: new DashboardOptions
 {
     DashboardTitle = "Scheduler Background Jobs",
-    DisplayStorageConnectionString = false
+    DisplayStorageConnectionString = false,
+    DarkModeEnabled = false
 });
 
 app.MapJobShedulerEndpoints();
