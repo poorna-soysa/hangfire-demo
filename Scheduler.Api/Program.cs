@@ -1,7 +1,3 @@
-using Hangfire;
-using Scheduler.Api.Endpoints;
-using Scheduler.Api.Services;
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEndpointsApiExplorer();

@@ -1,6 +1,4 @@
-﻿using Hangfire;
-
-namespace Scheduler.Api.Services;
+﻿namespace Scheduler.Api.Services;
 
 public sealed class JobSchedulerService(
     IBackgroundJobClient backgroundJobClient,

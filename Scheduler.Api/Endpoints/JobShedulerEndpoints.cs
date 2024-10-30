@@ -1,6 +1,4 @@
-﻿using Scheduler.Api.Services;
-
-namespace Scheduler.Api.Endpoints;
+﻿namespace Scheduler.Api.Endpoints;
 
 public static class JobShedulerEndpoints
 {
