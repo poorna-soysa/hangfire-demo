@@ -44,7 +44,7 @@ To get a local copy up and running, follow these simple steps.
 ## Technologies Used
 
 - **.NET 9**
-- **Hnagfire**
+- **Hangfire**
 - **MS SQL**
 
 ## Contributing
