@@ -1,6 +1,6 @@
 ﻿namespace Scheduler.Api.Endpoints;
 
-public static class JobShedulerEndpoints
+public static class JobSchedulerEndpoints
 {
     public static void MapJobShedulerEndpoints(this IEndpointRouteBuilder app)
     {
