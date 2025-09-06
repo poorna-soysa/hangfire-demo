@@ -1,7 +1,7 @@
-# Scheduler API with .NET 8, Hangfire and MS SQL
+# Scheduler API with .NET 9, Hangfire and MS SQL
 
 
-This repository showcases the integration of Hangfire with .NET 8 for managing background tasks in web applications. Hangfire allows you to easily enqueue and manage jobs such as email notifications, data processing, and scheduled tasks, all while providing a robust dashboard for monitoring job status and execution history.
+This repository showcases the integration of Hangfire with .NET 9 for managing background tasks in web applications. Hangfire allows you to easily enqueue and manage jobs such as email notifications, data processing, and scheduled tasks, all while providing a robust dashboard for monitoring job status and execution history.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 
 ### Installation
 
@@ -37,14 +37,14 @@ To get a local copy up and running, follow these simple steps.
 
 ## Features
 
-- **Built with .NET 8**: Utilizes the latest features for efficient development.
+- **Built with .NET 9**: Utilizes the latest features for efficient development.
 - **Hangfire**:  Optimized for managing background tasks.
 - **MS SQL**: Powerful relational database for data storage.
 
 ## Technologies Used
 
-- **.NET 8**
-- **Hnagfire**
+- **.NET 9**
+- **Hangfire**
 - **MS SQL**
 
 ## Contributing
@@ -66,4 +66,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 If you find this project helpful, consider buying me a coffee!
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/poorna.soysa)
-```
