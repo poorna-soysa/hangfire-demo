@@ -2,7 +2,7 @@
 
 public static class JobSchedulerEndpoints
 {
-    public static void MapJobShedulerEndpoints(this IEndpointRouteBuilder app)
+    public static void MapJobSchedulerEndpoints(this IEndpointRouteBuilder app)
     {
         var schedulerGroup = app.MapGroup("api/job-schedulers");
 

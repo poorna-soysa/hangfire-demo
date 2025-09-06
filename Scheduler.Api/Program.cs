@@ -28,7 +28,7 @@ app.UseHangfireDashboard(options: new DashboardOptions
     DisplayStorageConnectionString = false
 });
 
-app.MapJobShedulerEndpoints();
+app.MapJobSchedulerEndpoints();
 app.UseHttpsRedirection();
 
 app.Run();
